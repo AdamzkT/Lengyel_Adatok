@@ -2,59 +2,222 @@
   "nemzeti_lengyel_etelek": [
     {
       "nev": "Pierogi",
-      "leiras": "Hagyományos lengyel töltött tészta, amelyet különféle töltelékekkel készítenek, például burgonyával és túróval (ruskie), hússal, káposztával és gombával, vagy édes változatokban gyümölcsökkel."
+      "leiras": "Hagyományos lengyel töltött tészta, amelyet különféle töltelékekkel készítenek, például burgonyával és túróval (ruskie), hússal, káposztával és gombával, vagy édes változatokban gyümölcsökkel.",
+      "ido": 90,
+      "hozzavalok": [
+            "50 dkg liszt",
+            "1 db tojás",
+            "1 teáskanál só",
+            "2 evőkanál olvasztott vaj",
+            "1,5 evőkanál olaj",
+            "2,5 dl forró víz",
+            "4 fej vöröshagyma",
+            "5 db nagyobb burgonya",
+            "15 dkg krémsajt",
+            "só",
+            "bors"
+      ],
+      "elkeszites": [
+            "A lisztben keverjük el sót, majd adjuk hozzá a tojást a vajat és az olajat.",
+            "Ezután lassan adagolva adjuk hozzá a forró vizet, egy fakanál segítségével keverjük össze.",
+            "Gyúrjunk szép egynemű tésztát az összekevert alapanyagokból. Tegyük a hűtőbe 60 percre.",
+            "Addig amíg a hűtőben pihen a tésztánk készítsük el a tölteléket. A hagymát vágjuk kisebb kockákra és kevés zsiradékon karamellizáljuk meg.",
+            "Amíg a hagyma karamellizálodik reszeljük le a burgonyát. Ha nagyon nedves lenne a burgonya nyomkodjuk ki a felesleges vizet belőle.",
+            "A burgonyát tegyük egy vékonyan olajjal kikent serpenyőbe és kb 8-10 perc alatt álladó keverés mellett pirítsuk meg. Akkor jó ha a burgonya szálak kicsit ropogósak lesznek.",
+            "Az elkészült hagymából vegyünk ki 2-3 evőkanállal. A maradék hagymát és a krémsajtot keverjük a burgonyához. Ízlés szerint ízesítsük sóval,borssal.",
+            "Vegyük ki a tésztát a hűtőből nyújtsuk ki amilyen vékonyra csak tudjuk. A tésztából vágjunk egyforma nagyságú köröket. A közepükre tegyünk tölteléket és csukjuk össze jó szorosan. (Ha kézzel nyomkodjuk össze egy villával jól nyomkodjuk össze a széleit a tésztának).",
+            "A megformázott pirogiakat tegyük egy tálcára. Bő forró sós vízben főzzük ki kb. 10 perc alatt. Amikor feljöttek a víz tetejére elkészültek. Egyszerre csak kevés tésztát tegyünk a főző vízbe.",
+            "Tálalhatjuk csak megfőzve de sokkal finomabb ha lecsepegtetjük és egy nagyon kevés olívaolajon vagy vajon kicsit megpirítjuk.",
+            "Tálalásnál a pierogi tetejére rakjuk rá a töltelékből kimaradt hagymát. Ízlés szerint fogyaszthatjuk bármilyen mártogatóssal."
+      ],
+      "kep": ""
     },
     {
       "nev": "Bigos",
-      "leiras": "Más néven „vadászok pörköltje”, egy gazdag egytálétel, amely savanyú káposztából, friss káposztából, különféle húsokból (pl. kolbász, marha, sertés) és gombából készül. Hosszú ideig főzik, hogy az ízek jól összeérjenek."
+      "leiras": "Más néven „vadászok pörköltje”, egy gazdag egytálétel, amely savanyú káposztából, friss káposztából, különféle húsokból (pl. kolbász, marha, sertés) és gombából készül. Hosszú ideig főzik, hogy az ízek jól összeérjenek.",
+      "ido": 15,
+      "hozzavalok": [
+            "2 kg savanyú káposzta",
+            "1 kg sertéscomb",
+            "75 dkg sertéscsont",
+            "20 dkg füstölt kolbász",
+            "10 dkg szalonna",
+            "10 dkg aszalt szilva",
+            "8 szem bors",
+            "5 dkg szárított vargánya",
+            "1 fej vöröshagyma",
+            "3 dkg zsír",
+            "2.5 dl száraz fehérbor",
+            "2 evőkanál paradicsompüré",
+            "2 db babérlevél",
+            "só"
+      ],
+      "elkeszites": [
+            "Ha a káposzta túl sós, áztasd ki. A gombát pucold meg, szeleteld fel, és rakd hideg vízbe 15 percre. A vöröshagymát hámozd meg, aprítsd fel. Kevés zsiradékon süsd meg a kis darabokra vágott szalonnát, majd rakd hozzá a hagymát, és dinszteld meg. Tedd hozzá a fokhagymát, a kockákra vágott sertéscombot, a csontot, és süsd pár percig.",
+            "Add hozzá a káposztát, majd önts hozzá annyi vizet, hogy mindent ellepjen. Ízesítsd babérlevéllel, borssal, paradicsompürével, és mehet hozzá a gomba. Fedő alatt főzd puhára a húst bő egy-másfél óra alatt. A kolbászt és a szilvát csak az utolsó 10 percben add hozzá. Kóstold meg, ha kell, dobj hozzá sót. Végül öntsd hozzá a bort, és forrald össze egy-két perc alatt."
+      ],
+      "kep": ""
     },
     {
       "nev": "Żurek",
-      "leiras": "Savanykás leves, amely erjesztett rozslisztből készül, gyakran kolbásszal, főtt tojással és burgonyával tálalják. Húsvéti időszakban különösen népszerű."
+      "leiras": "Savanykás leves, amely erjesztett rozslisztből készül, gyakran kolbásszal, főtt tojással és burgonyával tálalják. Húsvéti időszakban különösen népszerű.",
+      "ido": 60,
+      "hozzavalok": [
+            "2 fej vöröshagyma",
+            "3 gerezd fokhagyma",
+            "15 dkg húsos szalonna",
+            "1 evőkanál liszt",
+            "1 kg burgonya",
+            "só",
+            "fél teáskanál morzsolt majoránna",
+            "1 szál vékony kolbász",
+            "fél teáskanál fehérborecet",
+            "10 dkg tejföl",
+            "4 db főtt tojás"
+      ],
+      "elkeszites": [
+            "A vörös- és a fokhagymát meghámozzuk, finomra vágjuk. A szalonnát felaprítjuk, majd egy nagyobb lábasban üvegesre sütjük. A kisült szalonnadarabokat a zsírból kiszedjük, félretesszük. A lábasban visszamaradt zsiradékon megfonnyasztjuk a hagymákat. Meghintjük a liszttel, és világosra pirítjuk. Visszatesszük bele a szalonnadarabokat, és felöntjük 1,5 liter vízzel.",
+            "A burgonyát meghámozzuk, felkockázzuk. A leveshez adjuk, megsózzuk, és majoránnával ízesítjük. Felforraljuk az egészet, majd közepes lángon addig főzzük, amíg a krumpli megpuhul. Hozzáadjuk a felkarikázott kolbászt, majd ismét forralunk rajta egyet. Végül belecsorgatjuk a levesbe az ecetet, és simára keverjük benne a tejfölt. Keményre főtt tojással tálaljuk."
+      ],
+      "kep": ""
     },
     {
       "nev": "Gołąbki",
-      "leiras": "Töltött káposzta, amelyben darált hús és rizs keverékével töltött káposztalevelek vannak, majd paradicsomszószban vagy húslevesben főzve."
+      "leiras": "Töltött káposzta, amelyben darált hús és rizs keverékével töltött káposztalevelek vannak, majd paradicsomszószban vagy húslevesben főzve.",
+      "ido": 180,
+      "hozzavalok": [
+            "1 db nagy fejeskáposzta lapos",
+            "90 dkg sertés-marha darált hús",
+            "2 fej vöröshagyma",
+            "3 gerezd fokhagyma",
+            "15 dkg rizs",
+            "1-2 szál szálzeller",
+            "1 db piros színű paprika",
+            "ízlés szerint kapor, só, bors",
+            "ízlés szerint étolaj, vaj",
+            "ízlés szerint erdei gombakeverék",
+            "ízlés szerint paradicsompüré"
+      ],
+      "elkeszites": [
+            "A káposzta torzsát kivágom és forrásba lévő vízbe teszem. Ahogy kezdenek leválni a levelek, kiveszem és levágom a vastag erezett részt. A gombákat vajon megpárolom, közben sózom-borsozom. A darálthúshoz dinsztelt hagymát-fokhagymát adok, hozzáaprítom a szárzellert, a paprikát és a kapor felét is. Az előfőzött rizst is beleteszem. Sózom-borsozom és nagyon alaposan összekeverem, hogy az ízek összeálljanak.",
+            "Nekem 14 db nagy töltelék lett, a káposzta többi részéből félretettem a lábos aljába pár darabot a többit pedig felcsíkoztam. Egy felforrósított edényben nagy láng alatt megpirítottam a töltelékek mindkét oldalát. Egy nagy edénybe aljára kerülnek a levelek, erre sorakoztatom a töltelékeket és a gomba kerül a tetejükre. A felcsíkozott káposzta kerül legfölülre.",
+            "A káposzta főzőlevéből, paradicsomléből kapor hozzáadásával készítek egyveleget és ezt öntöm a káposztára. Lefedem és beteszem a 200 C fokos sütőbe. Kb. 1, 5 óra az elkészülési idő. Érdemes akár előző nap elkészíteni és tejföllel, friss kaporral tálalni."
+      ],
+      "kep": ""
     },
     {
       "nev": "Barszcz",
-      "leiras": "Céklaalapú leves, amely gyakran hidegen (nyáron) vagy melegen (téliesebb változatokban) tálalják. A karácsonyi változat (barszcz wigilijny) gombás derelyével vagy uszkával készül."
+      "leiras": "Céklaalapú leves, amely gyakran hidegen (nyáron) vagy melegen (téliesebb változatokban) tálalják. A karácsonyi változat (barszcz wigilijny) gombás derelyével vagy uszkával készül.",
+      "ido": 90,
+      "hozzavalok": [
+            "1 kg cékla",
+            "2 közepes alma",
+            "1 evőkanál só",
+            "2 db leveskocka",
+            "4 evőkanál cukor",
+            "1 db babérlevél",
+            "1 kávéskanál szegfűbors",
+            "1 kávéskanál fekete bors",
+            "4 evőkanál ecet",
+            "1 kávéskanál majoranna",
+            "2 liter víz",
+            "400 g sonkás tortellini"
+      ],
+      "elkeszites": [
+            "Meghámozzuk a céklákat és almákat, majd az összeset egészben beletesszük egy nagy fazékba. Felöntjük 2 liter vízzel, majd hozzáadjuk az összes többi hozzávalót (a tortellini kivételével). A szegfűborsot, egész fekete borsot és babérlevelet teatojásba téve könnyebben el fogjuk tudni a végén távolítani.",
+            "Felforraljuk, és fedő alatt, lassú tűzön addig főzzük, amíg a céklák puhák nem lesznek. Ez a céklák méretétől függően 1-2 óra lehet. Egy éles késsel a legnagyobb céklába beleszúrva próbálhatjuk ki, hogy megfőtt-e: akkor jó, ha a kés könnyedén belemegy a közepéig.",
+            "Enyhén sós vízben, külön megfőzzük a tortellinit (vigyázva, hogy ne főzzük szét). A levesből a lé kivételével mindent (almát, céklát, fűszereket) eltávolítunk, akár egy nagyobb lyukú szűrő segítségével. A főtt céklákat más receptekhez (például céklasalátához) felhasználhatjuk, semmiképp se dobjuk ki.",
+            "Tálalásnál a forró céklalébe teszünk tányéronként nagyjából 10 darab tortellinit. Ha a maradékot hűtőben későbbre félre akarjuk tenni, érdemes a létől külön eltenni a tortellinit."
+      ],
+      "kep": ""
     },
     {
       "nev": "Kielbasa",
-      "leiras": "Lengyel kolbász, amelyet különféle húsokból készítenek, gyakran füstölnek és grilleznek vagy főznek. Nagyon népszerű és számos változata létezik."
+      "leiras": "Lengyel kolbász, amelyet különféle húsokból készítenek, gyakran füstölnek és grilleznek vagy főznek. Nagyon népszerű és számos változata létezik.",
+      "kep": ""
     },
     {
       "nev": "Placki ziemniaczane",
-      "leiras": "Burgonyapalacsinta, amely reszelt burgonyából, lisztből és tojásból készül, majd olajban megsütik. Gyakran tejföllel, cukorral vagy húsos raguval tálalják."
+      "leiras": "Burgonyapalacsinta, amely reszelt burgonyából, lisztből és tojásból készül, majd olajban megsütik. Gyakran tejföllel, cukorral vagy húsos raguval tálalják.",
+      "hozzavalok": [
+            "6 közepes burgonya (hántolt és finomra reszelt)",
+            "1 közepes hagyma (finomra reszelt)",
+            "2 nagy tojás",
+            "1/4 csésze lisztet",
+            "Növényi olaj",
+            "Só",
+            "Bors"
+      ],
+      "elkeszites": [
+            "Keverjünk meg burgonyát, hagymát, tojást, sót és borsot. Adjunk hozzá elegendő lisztet, hogy összekeverjük a keveréket, de még mindig kissé vékony.",
+            "Egy nagy, súlyos serpenyőben, közepesen magas hőmennyiség mellett, adjunk hozzá elegendő növényi olajat, hogy 1/4 inch mélységig jusson. Melegítsük fel, de ne dohányozzunk.",
+            "Dobja le a evőkanálnyi burgonyakeveréket serpenyőbe, és szétterüljön egy 3 cm-es körbe, körülbelül 1/4 cm vastagságú.",
+            "Süsse barnára az alján (ne forduljon addig, amíg a palacsinta barna vagy ragad), kb. 3-5 percig, csökkentve a hőt közepesre, ha szükséges, az égetés elkerülése érdekében."
+      ],
+      "kep": ""
     },
     {
       "nev": "Kotlet schabowy",
-      "leiras": "Rántott sertéskotlet, amelyet lisztben, tojásban és morzsában megforgatva, majd kisütve készítenek. Gyakran burgonyapürével vagy krumplival és savanyúsággal tálalják."
+      "leiras": "Rántott sertéskotlet, amelyet lisztben, tojásban és morzsában megforgatva, majd kisütve készítenek. Gyakran burgonyapürével vagy krumplival és savanyúsággal tálalják.",
+      "time": 20,
+      "hozzavalok": [
+            "2 csontozott disznókaraj",
+            "1 evőkanál liszt",
+            "1 tojás",
+            "5 evőkanál zsemlemorzsa",
+            "2 evőkanál olaj",
+            "só, bors"
+      ],
+      "elkeszites": [
+            "Helyezze a sertésszeleteket 2 vastag műanyaglap közé, szilárd, vízszintes felületre. Egy húskalapács sima oldalával, időnként megforgatva, erősen verje nagyon vékonyra. Sózzuk, borsozzuk.",
+            "Öntsön lisztet egy nagy tányérra. Egy széles, sekély tálban felverjük a tojást. Helyezze a zsemlemorzsát egy külön sekély tálba.",
+            "Hintse be a szeleteket liszttel. Mártsa a fervert tojásba, majd mindkét oldalát zsemlemorzsázza. A felesleget rázza le",
+            "Melegítsünk olajat egy nagy serpenyőben közep-magas lángon. Adjuk hozzá a panírozott szeleteket, süssük aranybarnára, oldalanként körülbelül 5 percig."
+      ],
+      "kep": ""
     },
     {
       "nev": "Rosół",
-      "leiras": "Húsleves, amelyet általában csirkéből készítenek, hosszú ideig főzve, hogy gazdag és ízletes leves legyen. Gyakran tésztával tálalják."
+      "leiras": "Húsleves, amelyet általában csirkéből készítenek, hosszú ideig főzve, hogy gazdag és ízletes leves legyen. Gyakran tésztával tálalják.",
+      "hozzavalok": [],
+      "elkeszites": [],
+      "kep": ""
     },
     {
       "nev": "Sernik",
-      "leiras": "Lengyel túrótorta, amely különféle módon készülhet, például mazsolával, citromhéjjal vagy csokoládéval. Nagyon népszerű desszert."
-    },
-    {
-      "nev": "Pączki",
-      "leiras": "Lengyel fánk, amelyet hagyományosan zsírban sütnek és különféle töltelékekkel töltenek meg, például lekvárral, csokoládéval vagy vaníliakrémmel."
+      "leiras": "Lengyel túrótorta, amely különféle módon készülhet, például mazsolával, citromhéjjal vagy csokoládéval. Nagyon népszerű desszert.",
+      "ido": 105,
+      "hozzavalok": [
+            "20 dkg vaj",
+            "6 db tojás",
+            "15 dkg porcukor",
+            "15 dkg tejföl",
+            "6 evőkanál finomliszt",
+            "1 kg tehéntúró",
+            "1 evőkanál vanília kivonat",
+            "50 g keksz"
+      ],
+      "elkeszites": [
+            "A nehezével kezdjük: a túrót szitán áttörjük. Ez borzalmasan fárasztó munka, de ettől lesz tökéletes a sütemény állaga, szóval nem érdemes megspórolni.",
+            "A puha vajat kézi robotgéppel habosítani kezdjük, közben felváltva, több részletben hozzáadva a tojássárgákat és a porcukrot.",
+            "Továbbra is a robotgéppel dolgozunk, hozzákeverjük a tejfölt, majd a lisztet, a vanília kivonatot, végül apránként hozzámixeljük az áttört túrót is.",
+            "A tojásfehérjéket egy csipet sóval kemény habbá verjük, és spatula segítségével 2-3 részben a tésztához forgatjuk.",
+            "Egy tepsit (20x30cm) vagy tortaformát (24cm) kivajazunk. A kekszet morzsává törtjük, és a kivajazott forma aljára szórjuk.",
+            "Jöhet a túrós krém/tészta a kekszrétegre. Spatulával vagy egyéb célszerszámmal egyengessük el a tetejét, hogy szép sima legyen.",
+            "170 fokra előmelegített sütőbe tesszük, és 1 órát sütjük. Ha a teteje nagyon pirulni kezdene, fedjük le alufóliával.",
+            "A sütőből kivéve hagyjuk szobahőmérsékletűre hűlni, majd szeletelhetjük. Ízlés szerint porcukorral is megszórhatjuk."
+      ],
+      "kep": ""
     },
     {
       "nev": "Makowiec",
-      "leiras": "Mákos bejgli, amely édes máktöltelékkel készült kalács. Gyakran fogyasztják karácsonykor és húsvétkor."
+      "leiras": "Mákos bejgli, amely édes máktöltelékkel készült kalács. Gyakran fogyasztják karácsonykor és húsvétkor.",
+      "kep": ""
     },
     {
       "nev": "Kremówka",
-      "leiras": "Krémestorta, amely rétegekben készül, vanília- vagy vaníliakrém rétegekkel, és gyakran porcukorral megszórják a tetejét."
-    },
-    {
-      "nev": "Szarlotka",
-      "leiras": "Almás pite, amelyet reszelt almával töltik meg és fűszereznek, majd omlós tésztával fedik le és sütnek meg. Gyakran fogyasztják tejszínhabbal vagy vaníliaszósszal."
+      "leiras": "Krémestorta, amely rétegekben készül, vanília- vagy vaníliakrém rétegekkel, és gyakran porcukorral megszórják a tetejét.",
+      "kep": ""
     }
   ]
 }
