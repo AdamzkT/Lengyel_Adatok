@@ -3,56 +3,67 @@
     {
       "nev": "Varsó",
       "nepesseg": 1793579,
+      "kep": "https://raw.githubusercontent.com/AdamzkT/Lengyel_Adatok/main/kepek/varosok/varso.jpg",
       "leiras": "Lengyelország fővárosa és legnagyobb városa, amely modern égboltjairól és történelmi Óvárosáról híres, amelyet a második világháború után gondosan újjáépítettek. Jelentős kulturális, politikai és gazdasági központ."
     },
     {
       "nev": "Krakkó",
       "nepesseg": 779115,
+      "kep": "https://raw.githubusercontent.com/AdamzkT/Lengyel_Adatok/main/kepek/varosok/krakko.jpg",
       "leiras": "Lengyelország egyik legrégebbi és legtörténelmibb városa, amely jól megőrzött középkori központjáról és zsidó negyedéről híres. Fő látnivalói közé tartozik a Wawel kastély és a Főpiac tér."
     },
     {
       "nev": "Gdańsk",
       "nepesseg": 470907,
+      "kep": "https://raw.githubusercontent.com/AdamzkT/Lengyel_Adatok/main/kepek/varosok/gdansk.jpg",
       "leiras": "Balti-tenger partján fekvő kikötőváros, amely gazdag tengeri kereskedelmi történelméről és szépen helyreállított Óvárosáról ismert. Jelentős szerepet játszott a kommunizmus bukásához hozzájáruló Szolidaritás mozgalomban."
     },
     {
       "nev": "Wrocław",
       "nepesseg": 643782,
+      "kep": "https://raw.githubusercontent.com/AdamzkT/Lengyel_Adatok/main/kepek/varosok/wroclaw.jpg",
       "leiras": "Gyönyörű építészetéről, beleértve a Piac teret és a Odera folyót átszelő számos szigetet és hidat, ismert. Nyugat-Lengyelország kulturális és gazdasági központja."
     },
     {
       "nev": "Poznań",
       "nepesseg": 536438,
+      "kep": "https://raw.githubusercontent.com/AdamzkT/Lengyel_Adatok/main/kepek/varosok/poznan.jpg",
       "leiras": "Jelentős kulturális és üzleti központ, amely reneszánsz stílusú városházájáról és élénk kulturális életéről híres. Számos egyetemmel rendelkező jelentős akadémiai város."
     },
     {
       "nev": "Łódź",
       "nepesseg": 679941,
+      "kep": "https://raw.githubusercontent.com/AdamzkT/Lengyel_Adatok/main/kepek/varosok/lodz.jpg",
       "leiras": "Ipari örökségéről és revitalizált városi tájáról, beleértve a híres Piotrkowska utcát és a Manufaktura komplexumot, ismert. Jelentős kulturális és gazdasági átalakuláson megy keresztül."
     },
     {
       "nev": "Szczecin",
       "nepesseg": 398255,
+      "kep": "https://raw.githubusercontent.com/AdamzkT/Lengyel_Adatok/main/kepek/varosok/szczecin.jpg",
       "leiras": "Német határ közelében fekvő jelentős kikötőváros, amely tengeri iparáról, a Pomerániai hercegek kastélyáról és a zöld parkokról és zöldterületekről ismert."
     },
     {
       "nev": "Lublin",
       "nepesseg": 339850,
+      "kep": "https://raw.githubusercontent.com/AdamzkT/Lengyel_Adatok/main/kepek/varosok/lublin.jpg",
       "leiras": "Kelet-Lengyelország fontos kulturális és akadémiai városa, amely festői Óvárosáról és élénk kulturális fesztiváljairól ismert. Gazdag történelemmel rendelkezik, mint különböző kultúrák találkozási pontja."
     },
     {
       "nev": "Katowice",
       "nepesseg": 294510,
+      "kep": "https://raw.githubusercontent.com/AdamzkT/Lengyel_Adatok/main/kepek/varosok/katowice.jpg",
       "leiras": "A Felső-Sziléziai Ipari Régió központja, amely modernista építészetéről és virágzó zenei életéről híres. Jelentős gazdasági és kulturális központ Dél-Lengyelországban."
     },
     {
       "nev": "Zakopane",
       "nepesseg": 27000,
+      "kep": "https://raw.githubusercontent.com/AdamzkT/Lengyel_Adatok/main/kepek/varosok/zakopane.jpg",
       "leiras": "A Lengyel-Tátra lábánál fekvő város, amely Lengyelország téli fővárosaként ismert. Híres síközpontjairól, túraútvonalairól és hagyományos gorál kultúrájáról. Népszerű turisztikai célpont a hegyi sportok és a természeti szépségek kedvelői számára."
     },
     {
       "nev": "Toruń",
       "nepesseg": 201447,
+      "kep": "https://raw.githubusercontent.com/AdamzkT/Lengyel_Adatok/main/kepek/varosok/torun.jpg",
       "leiras": "A Visztula partján fekvő város, amely híres középkori építészetéről és történelmi jelentőségéről. Toruń Mikołaj Kopernikusz szülőhelye és UNESCO Világörökség része. A város híres mézeskalácsairól is."
     }
   ]
