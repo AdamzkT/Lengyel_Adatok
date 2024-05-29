@@ -1,0 +1,60 @@
+{
+  "nemzeti_lengyel_etelek": [
+    {
+      "nev": "Pierogi",
+      "leiras": "Hagyományos lengyel töltött tészta, amelyet különféle töltelékekkel készítenek, például burgonyával és túróval (ruskie), hússal, káposztával és gombával, vagy édes változatokban gyümölcsökkel."
+    },
+    {
+      "nev": "Bigos",
+      "leiras": "Más néven „vadászok pörköltje”, egy gazdag egytálétel, amely savanyú káposztából, friss káposztából, különféle húsokból (pl. kolbász, marha, sertés) és gombából készül. Hosszú ideig főzik, hogy az ízek jól összeérjenek."
+    },
+    {
+      "nev": "Żurek",
+      "leiras": "Savanykás leves, amely erjesztett rozslisztből készül, gyakran kolbásszal, főtt tojással és burgonyával tálalják. Húsvéti időszakban különösen népszerű."
+    },
+    {
+      "nev": "Gołąbki",
+      "leiras": "Töltött káposzta, amelyben darált hús és rizs keverékével töltött káposztalevelek vannak, majd paradicsomszószban vagy húslevesben főzve."
+    },
+    {
+      "nev": "Barszcz",
+      "leiras": "Céklaalapú leves, amely gyakran hidegen (nyáron) vagy melegen (téliesebb változatokban) tálalják. A karácsonyi változat (barszcz wigilijny) gombás derelyével vagy uszkával készül."
+    },
+    {
+      "nev": "Kielbasa",
+      "leiras": "Lengyel kolbász, amelyet különféle húsokból készítenek, gyakran füstölnek és grilleznek vagy főznek. Nagyon népszerű és számos változata létezik."
+    },
+    {
+      "nev": "Placki ziemniaczane",
+      "leiras": "Burgonyapalacsinta, amely reszelt burgonyából, lisztből és tojásból készül, majd olajban megsütik. Gyakran tejföllel, cukorral vagy húsos raguval tálalják."
+    },
+    {
+      "nev": "Kotlet schabowy",
+      "leiras": "Rántott sertéskotlet, amelyet lisztben, tojásban és morzsában megforgatva, majd kisütve készítenek. Gyakran burgonyapürével vagy krumplival és savanyúsággal tálalják."
+    },
+    {
+      "nev": "Rosół",
+      "leiras": "Húsleves, amelyet általában csirkéből készítenek, hosszú ideig főzve, hogy gazdag és ízletes leves legyen. Gyakran tésztával tálalják."
+    },
+    {
+      "nev": "Sernik",
+      "leiras": "Lengyel túrótorta, amely különféle módon készülhet, például mazsolával, citromhéjjal vagy csokoládéval. Nagyon népszerű desszert."
+    },
+    {
+      "nev": "Pączki",
+      "leiras": "Lengyel fánk, amelyet hagyományosan zsírban sütnek és különféle töltelékekkel töltenek meg, például lekvárral, csokoládéval vagy vaníliakrémmel."
+    },
+    {
+      "nev": "Makowiec",
+      "leiras": "Mákos bejgli, amely édes máktöltelékkel készült kalács. Gyakran fogyasztják karácsonykor és húsvétkor."
+    },
+    {
+      "nev": "Kremówka",
+      "leiras": "Krémestorta, amely rétegekben készül, vanília- vagy vaníliakrém rétegekkel, és gyakran porcukorral megszórják a tetejét."
+    },
+    {
+      "nev": "Szarlotka",
+      "leiras": "Almás pite, amelyet reszelt almával töltik meg és fűszereznek, majd omlós tésztával fedik le és sütnek meg. Gyakran fogyasztják tejszínhabbal vagy vaníliaszósszal."
+    }
+  ]
+}
