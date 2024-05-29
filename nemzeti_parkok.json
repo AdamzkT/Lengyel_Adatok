@@ -1,0 +1,64 @@
+{
+  "national_parks": [
+    {
+      "nev": "Białowieża Nemzeti Park",
+      "alapitas_eve": 1932,
+      "terulet_km2": 105,
+      "leiras": "Lengyelország és Fehéroroszország határán elhelyezkedő ősi erdő, amely a világörökség része. Híres az európai bölények (wisent) otthonáról és érintetlen erdőiről."
+    },
+    {
+      "nev": "Tatrzański Nemzeti Park",
+      "alapitas_eve": 1954,
+      "terulet_km2": 211,
+      "leiras": "A Tátra-hegység lengyel részén található nemzeti park, amely gazdag alpesi tájakkal, csúcsokkal, völgyekkel és tavakkal rendelkezik. Népszerű kiránduló- és síterület."
+    },
+    {
+      "nev": "Biebrzański Nemzeti Park",
+      "alapitas_eve": 1993,
+      "terulet_km2": 592,
+      "leiras": "Lengyelország legnagyobb nemzeti parkja, amely híres a Biebrza folyó vizes élőhelyeiről és gazdag madárvilágáról. Fontos madármegfigyelő hely."
+    },
+    {
+      "nev": "Kampinoski Nemzeti Park",
+      "alapitas_eve": 1959,
+      "terulet_km2": 385,
+      "leiras": "Varsó közelében található erdős és mocsaras terület, amely gazdag növény- és állatvilággal rendelkezik. Népszerű kirándulóhely a főváros lakói számára."
+    },
+    {
+      "nev": "Bieszczady Nemzeti Park",
+      "alapitas_eve": 1973,
+      "terulet_km2": 292,
+      "leiras": "A Kárpátok része, amely gazdag erdőkkel, hegyekkel és vadon élő állatokkal, például farkasokkal, medvékkel és hiúzokkal rendelkezik. Népszerű túrázási célpont."
+    },
+    {
+      "nev": "Słowiński Nemzeti Park",
+      "alapitas_eve": 1967,
+      "terulet_km2": 186,
+      "leiras": "A Balti-tenger partján elhelyezkedő nemzeti park, amely híres mozgó homokdűnéiről, tavakról és gazdag madárvilágáról. UNESCO bioszféra rezervátum."
+    },
+    {
+      "nev": "Wielkopolski Nemzeti Park",
+      "alapitas_eve": 1957,
+      "terulet_km2": 75,
+      "leiras": "Poznań közelében található nemzeti park, amely erdős és tavas területeiről ismert. Népszerű kirándulóhely és természeti oktatási központ."
+    },
+    {
+      "nev": "Świętokrzyski Nemzeti Park",
+      "alapitas_eve": 1950,
+      "terulet_km2": 76,
+      "leiras": "A Świętokrzyskie-hegységben található nemzeti park, amely gazdag erdőségeiről és különleges geológiai képződményeiről ismert. Híres a Łysiec (Święty Krzyż) hegyéről és kolostoráról."
+    },
+    {
+      "nev": "Roztoczański Nemzeti Park",
+      "alapitas_eve": 1974,
+      "terulet_km2": 84,
+      "leiras": "A Roztocze-hegységben található nemzeti park, amely változatos tájairól, erdeiről és tiszta folyóvizeiről ismert. Gazdag növény- és állatvilág jellemzi."
+    },
+    {
+      "nev": "Ojcowski Nemzeti Park",
+      "alapitas_eve": 1956,
+      "terulet_km2": 22,
+      "leiras": "Lengyelország legkisebb nemzeti parkja, amely Krakkó közelében található. Híres barlangjairól, sziklaalakzatairól és történelmi látnivalóiról, mint például a Pieskowa Skała kastély."
+    }
+  ]
+}
