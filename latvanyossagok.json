@@ -1,0 +1,64 @@
+{
+  "latvanyossagok": [
+    {
+      "nev": "Varsói óváros",
+      "hely": "Varsó",
+      "leiras": "Varsó történelmi központja, amely a második világháború után újjáépített óvárost foglalja magában. A színes középkori épületek és a reneszánsz stílusú lengyel királyi palota látványa vonzza a turistákat."
+    },
+    {
+      "nev": "Krakkói óváros és Wawel-kastély",
+      "hely": "Krakkó",
+      "leiras": "Krakkó történelmi központja, amely a Wawel dombon álló királyi kastélyt és a középkori régi városrészt foglalja magában. A Wawel-katedrális, a Szent Mária-bazilika és a Főtér (Rynek Główny) a legjelentősebb látványosságok közé tartoznak."
+    },
+    {
+      "nev": "Szent Mária-bazilika",
+      "hely": "Krakkó",
+      "leiras": "Krakkó ikonikus gótikus stílusú bazilikája, amely a város főterén, a Rynek Główny-on található. A középkori lengyel városépítészet egyik legszebb példája."
+    },
+    {
+      "nev": "Tátra-hegység",
+      "hely": "Dél-Lengyelország",
+      "leiras": "Lengyelország déli részén található hegyvidék, amely a Tátra hegyláncai által határolt. Kiváló turisztikai célpont a túrázás, hegymászás, téli sportok és természeti szépségek kedvelőinek."
+    },
+    {
+      "nev": "Malborki Kastély",
+      "hely": "Malbork",
+      "leiras": "Európa legnagyobb téglavárkastélya, amelyet a lovagrendek építettek a középkorban. A Malborki Kastély ma a világörökség része, és lenyűgöző látványt nyújt a látogatóknak."
+    },
+    {
+      "nev": "Auschwitzi-Birkenau Koncentrációs Tábor",
+      "hely": "Oświęcim",
+      "leiras": "A második világháború alatt a nácik által működtetett koncentrációs és haláltábor komplexuma, amely ma emlékhellyé vált. Sok látogató számára fontos történelmi és emlékezési helyszín."
+    },
+    {
+      "nev": "Białowieża-erdő",
+      "hely": "Kelet-Lengyelország",
+      "leiras": "Az utolsó európai őserdő, amelynek része a Białowieża Nemzeti Park. Ez a terület gazdag biológiai sokféleségével és a világ legnagyobb európai bölény (wisent) állományával büszkélkedhet."
+    },
+    {
+      "nev": "Wieliczka Sóakna",
+      "hely": "Wieliczka",
+      "leiras": "Egyike a világ legrégebbi sóbányáinak, amely ma is aktív. A sóakna híres lenyűgöző sószobrokról, szobrokról és kapellákról, amelyeket a sóból faragtak ki."
+    },
+    {
+      "nev": "Gdanski óváros és Hanza negyed",
+      "hely": "Gdańsk",
+      "leiras": "Gdańsk történelmi központja, amely lenyűgöző középkori épületeket és a Hanza kori negyedet foglal magában. A Długi Targ (Hosszú Tér) és a Neptunusz-kút a város jelképei."
+    },
+    {
+      "nev": "Zakopane és a Tatrák vidéke",
+      "hely": "Dél-Lengyelország",
+      "leiras": "Egy festői üdülőhely a Tátra-hegység lábainál, amely a lengyel hegyek egyik legnépszerűbb turisztikai célpontja. Kiváló síelési és túrázási lehetőségekkel rendelkezik."
+    },
+    {
+      "nev": "Crooked Forest",
+      "hely": "Szczecin közelében",
+      "leiras": "A Crooked Forest (Gyertyán Erdő) nevét a benne található 400 fa adja, amelyek hajlított törzsűek, mintha valamilyen mesterséges módon alakították volna őket. Az erdő titokzatos jelenségéről sok elmélet létezik, de a pontos magyarázat máig ismeretlen marad."
+    },
+    {
+      "nev": "Slowinski Homokdűnék",
+      "hely": "Pomerániai-térség",
+      "leiras": "A Slowinski Homokdűnék lenyűgöző homokdűnéi a Balti-tenger partján, ahol a homokdűnék hullámainak formájában változnak, amelyek a szelek hatására állandóan változnak. Ez a terület természetvédelmi terület és turisztikai attrakció."
+    }
+  ]
+}
